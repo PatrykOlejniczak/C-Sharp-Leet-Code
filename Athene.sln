@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Athene.Tests", ".\Athene.Tests\Athene.Tests.csproj", "{2F37582D-9A30-401A-98BF-C97DF08B7B21}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Athene", ".\Athene\Athene.csproj", "{4AE364F4-BB46-4CA4-A8BD-0B76ADF22650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F37582D-9A30-401A-98BF-C97DF08B7B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F37582D-9A30-401A-98BF-C97DF08B7B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F37582D-9A30-401A-98BF-C97DF08B7B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F37582D-9A30-401A-98BF-C97DF08B7B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AE364F4-BB46-4CA4-A8BD-0B76ADF22650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE364F4-BB46-4CA4-A8BD-0B76ADF22650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE364F4-BB46-4CA4-A8BD-0B76ADF22650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE364F4-BB46-4CA4-A8BD-0B76ADF22650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BA6425E-1F76-4B70-B574-313415A46B7F}
+	EndGlobalSection
+EndGlobal
